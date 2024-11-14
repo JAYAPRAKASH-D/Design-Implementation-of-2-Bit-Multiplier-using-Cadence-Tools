@@ -48,7 +48,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![Screenshot 2024-11-13 184148](https://github.com/user-attachments/assets/37df5963-4cd0-4e20-b7c2-41d25390412c)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +65,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+![Screenshot 2024-11-13 175803](https://github.com/user-attachments/assets/b4bda7f2-8fb4-4d37-8e47-63310be76ab9)
+
 
 
 
@@ -80,7 +81,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![Screenshot 2024-11-13 181824](https://github.com/user-attachments/assets/59dffd39-d099-433d-978e-ebbb36f8ad40)
+
 
  
 
@@ -95,14 +97,17 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+![Screenshot 2024-11-13 181905](https://github.com/user-attachments/assets/bd696c97-eacd-4897-9b38-ee80b519bb2c)
+
+
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+![Screenshot 2024-11-13 182010](https://github.com/user-attachments/assets/eee1612e-7e4b-48c2-a12c-b97b6c4b80a3)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+
+![Screenshot 2024-11-14 182010](https://github.com/user-attachments/assets/f7380c1f-059c-4b71-b7c1-45ec322a8e58)
 
   
 
